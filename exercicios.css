@@ -1,0 +1,39 @@
+body{
+    background: rgb(202, 169, 68);
+    font: normal 15pt Arial;
+
+}
+
+header{
+    color: rgb(205, 127, 127);
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(95, 93, 93);
+   
+
+}
+
+footer{
+    color: rgb(61, 56, 56);
+    text-align: center;
+    font-style: italic;
+
+}
+
+#imagem{
+    width: 500px;
+   color: rgba(16, 28, 77, 0.836);
+   
+}
+
+div{
+    text-align: center;
+}
